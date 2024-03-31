@@ -1,5 +1,5 @@
 fun main() {
-    var n1 = 44
+    var n1 = 20
     var n2 = 88
 
     var hcf = 1
