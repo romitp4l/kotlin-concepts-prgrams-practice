@@ -9,3 +9,4 @@ fun main(args: Array<String>) {
     val average = sum / numArray.size
     println("The average is: %.2f".format(average))
 }
+
